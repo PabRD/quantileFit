@@ -12,3 +12,6 @@ This function allows for quantile regression analysis on linear and non linear m
 %    - lb and ub: lower and upper bounds for the fitting
 [fitObj,gof,o] = quantileFit(xdata,ydata,funMod,tau,lb,ub);
 ```
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
