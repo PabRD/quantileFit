@@ -14,4 +14,4 @@ This function allows for quantile regression analysis on linear and non linear m
 ```
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/PabRD/quantileFit/tree/main/quantileFit_Example.svg)
