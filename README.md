@@ -1,7 +1,7 @@
 # quantileFit
 
 ## Quantile regression
-This function allows for quantile regression analysis on linear and non linear models
+This function allows for quantile regression analysis on linear and non linear models in MATLAB
 
 ```MATLAB
 % INPUTS:
@@ -14,4 +14,4 @@ This function allows for quantile regression analysis on linear and non linear m
 ```
 
 Inline-style: 
-![alt text](https://github.com/PabRD/quantileFit/tree/main/quantileFit_Example.svg)
+![alt text](https://github.com/PabRD/quantileFit/tree/main/quantileFit_Example.png)
