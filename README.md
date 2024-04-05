@@ -15,4 +15,4 @@ This function allows for quantile regression analysis on linear and non linear m
 Example of use:
 
 
-![alt text](https://github.com/PabRD/quantileFit/tree/main/quantileFit_Example.png)
+![alt text](https://github.com/PabRD/quantileFit/blob/main/quantileFit_Example.png)
